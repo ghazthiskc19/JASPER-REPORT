@@ -1,8 +1,6 @@
 package com.mycompany.jasper.report;
 import net.sf.jasperreports.engine.*;
 import net.sf.jasperreports.view.JasperViewer;
-//import net.sf.jasperreports.ant.JRException;
-//import org.springframework.util.ResourceUtils;
 
 import java.io.*;
 import java.nio.file.Paths;
